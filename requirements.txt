@@ -2,3 +2,5 @@ langchain
  langchain-google-genai
  dotenv
  streamlit
+ langchain-community
+ langgraph
