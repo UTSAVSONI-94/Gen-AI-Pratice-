@@ -4,3 +4,5 @@ langchain
  streamlit
  langchain-community
  langgraph
+ pypdf
+ wikipedia
